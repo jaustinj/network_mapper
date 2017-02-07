@@ -1,0 +1,6 @@
+.DS_Store
+.env/
+.ipynb_checkpoints/
+data/all_pairs.csv
+data/topic_output.csv
+
